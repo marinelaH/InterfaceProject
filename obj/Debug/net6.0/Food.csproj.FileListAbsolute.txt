@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Food\bin\Debug\net6.0\Food.exe
+C:\Users\User\source\repos\Food\bin\Debug\net6.0\Food.deps.json
+C:\Users\User\source\repos\Food\bin\Debug\net6.0\Food.runtimeconfig.json
+C:\Users\User\source\repos\Food\bin\Debug\net6.0\Food.dll
+C:\Users\User\source\repos\Food\bin\Debug\net6.0\Food.pdb
+C:\Users\User\source\repos\Food\obj\Debug\net6.0\Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Food\obj\Debug\net6.0\Food.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Food\obj\Debug\net6.0\Food.AssemblyInfo.cs
+C:\Users\User\source\repos\Food\obj\Debug\net6.0\Food.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Food\obj\Debug\net6.0\Food.dll
+C:\Users\User\source\repos\Food\obj\Debug\net6.0\refint\Food.dll
+C:\Users\User\source\repos\Food\obj\Debug\net6.0\Food.pdb
+C:\Users\User\source\repos\Food\obj\Debug\net6.0\Food.genruntimeconfig.cache
+C:\Users\User\source\repos\Food\obj\Debug\net6.0\ref\Food.dll
